@@ -2056,20 +2056,13 @@
     read-package-json-fast "^3.0.0"
     which "^3.0.0"
 
-"@nrwl/angular@*", "@nrwl/angular@16.8.0":
+"@nrwl/angular@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nrwl/angular/-/angular-16.8.0.tgz"
   integrity sha512-nW9Yz64LU6HOnzhBwDRxeFaFbcAPYCrQ+Ec0TWBPEBhcVEGNfPNqRr9nb5xN4rEzzZRDZPYGqI5THeWeqSYMiA==
   dependencies:
     "@nx/angular" "16.8.0"
     tslib "^2.3.0"
-
-"@nrwl/cypress@*", "@nrwl/cypress@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nrwl/cypress/-/cypress-16.10.0.tgz"
-  integrity sha512-ns6VQrrF08XYwZE4OduLVK2rwpN6dNrkVArw4fzJccuZ1g3YxR5JSuxpdBQA3FjKWoo2DybivuQudpIlYGq3UQ==
-  dependencies:
-    "@nx/cypress" "16.10.0"
 
 "@nrwl/cypress@16.8.0":
   version "16.8.0"
@@ -2078,33 +2071,19 @@
   dependencies:
     "@nx/cypress" "16.8.0"
 
-"@nrwl/devkit@*", "@nrwl/devkit@16.8.0":
+"@nrwl/devkit@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nrwl/devkit/-/devkit-16.8.0.tgz"
   integrity sha512-zpSNUCj9RZAAcCIHcjeVQT8FPutnaCe0empvm0yxWPbmIXjN/4Lw1f4V5K42MNDSa4Z8Hvj1tTL3+8JXSV9JxA==
   dependencies:
     "@nx/devkit" "16.8.0"
 
-"@nrwl/devkit@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nrwl/devkit/-/devkit-16.10.0.tgz"
-  integrity sha512-fRloARtsDQoQgQ7HKEy0RJiusg/HSygnmg4gX/0n/Z+SUS+4KoZzvHjXc6T5ZdEiSjvLypJ+HBM8dQzIcVACPQ==
-  dependencies:
-    "@nx/devkit" "16.10.0"
-
-"@nrwl/eslint-plugin-nx@*", "@nrwl/eslint-plugin-nx@16.8.0":
+"@nrwl/eslint-plugin-nx@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nrwl/eslint-plugin-nx/-/eslint-plugin-nx-16.8.0.tgz"
   integrity sha512-reDSV18k9wFomOn80BwhtHjzIigWQX+GcO9l9UhAPskLA2d61jWaXYxeVQrx7sh0kzZum856VGgTBStECHElaw==
   dependencies:
     "@nx/eslint-plugin" "16.8.0"
-
-"@nrwl/jest@*", "@nrwl/jest@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nrwl/jest/-/jest-16.10.0.tgz"
-  integrity sha512-hZuIK3xXh4HaE6/Ny8hGidjkJ4aLZjnQtPDxKD/423gznQe2FdHx3avoSlbOEOx5Oc6sJ9QGGZLcvckKQ5uWww==
-  dependencies:
-    "@nx/jest" "16.10.0"
 
 "@nrwl/jest@16.8.0":
   version "16.8.0"
@@ -2113,33 +2092,19 @@
   dependencies:
     "@nx/jest" "16.8.0"
 
-"@nrwl/js@*", "@nrwl/js@16.8.0":
+"@nrwl/js@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nrwl/js/-/js-16.8.0.tgz"
   integrity sha512-dJBFfa+RrNv9KCsZECXJ1Pv3Yu9X5uJfoONCV0eaatXzmlEWeosIpKU73QcW+f5rKQrLqd4//2qpd9EK/siyRw==
   dependencies:
     "@nx/js" "16.8.0"
 
-"@nrwl/js@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nrwl/js/-/js-16.10.0.tgz"
-  integrity sha512-asybPpyPrxLLDWWdYzFqbgubLmDKLEhoMz8x9MPOm3CH8v2vlIE6hD0JT19GdJArBPxRB33nhjtu8wmJGz5czw==
-  dependencies:
-    "@nx/js" "16.10.0"
-
-"@nrwl/linter@*", "@nrwl/linter@16.8.0":
+"@nrwl/linter@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nrwl/linter/-/linter-16.8.0.tgz"
   integrity sha512-bXLIzk8PnMnZyNnX4KdJ4lCsFkLb8z8yC1uWd2WU49RbmajD1uW7Jl0I4kJe3uLbuANWXwN4I8aeUanZ2/KGaQ==
   dependencies:
     "@nx/linter" "16.8.0"
-
-"@nrwl/linter@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nrwl/linter/-/linter-16.10.0.tgz"
-  integrity sha512-XvMuTeIc2I3630iaqhlV4w3qgABQIo+kv8mT0DbT1HfjjZDm4ST8hrvkdWSf9mCl24vShNL8GDVQVNOX0bZY5A==
-  dependencies:
-    "@nx/linter" "16.10.0"
 
 "@nrwl/nx-cloud@16.4.0":
   version "16.4.0"
@@ -2148,20 +2113,12 @@
   dependencies:
     nx-cloud "16.4.0"
 
-"@nrwl/react@*", "@nrwl/react@16.8.0":
+"@nrwl/react@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nrwl/react/-/react-16.8.0.tgz"
   integrity sha512-TC4kuul8249Dji4TFqiFaWAVDyKG+YOlAN9ZwTP38/R0JZpc0ihljnjS/HpV2S3VdrkiwVINwiqnabkMkfG3ug==
   dependencies:
     "@nx/react" "16.8.0"
-
-"@nrwl/tao@*", "@nrwl/tao@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nrwl/tao/-/tao-16.10.0.tgz"
-  integrity sha512-QNAanpINbr+Pod6e1xNgFbzK1x5wmZl+jMocgiEFXZ67KHvmbD6MAQQr0MMz+GPhIu7EE4QCTLTyCEMlAG+K5Q==
-  dependencies:
-    nx "16.10.0"
-    tslib "^2.3.0"
 
 "@nrwl/tao@16.8.0":
   version "16.8.0"
@@ -2171,13 +2128,6 @@
     nx "16.8.0"
     tslib "^2.3.0"
 
-"@nrwl/web@*", "@nrwl/web@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nrwl/web/-/web-16.10.0.tgz"
-  integrity sha512-BRQGOHiuEptVhjmXnlqM47epUL00RoUMjhcsfMNjyZ7WpdY0JjwJaNx4afylt3h28mSXVi4t008oE5FEC+YfYw==
-  dependencies:
-    "@nx/web" "16.10.0"
-
 "@nrwl/web@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nrwl/web/-/web-16.8.0.tgz"
@@ -2185,26 +2135,12 @@
   dependencies:
     "@nx/web" "16.8.0"
 
-"@nrwl/webpack@*", "@nrwl/webpack@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nrwl/webpack/-/webpack-16.10.0.tgz"
-  integrity sha512-oh/8jzytaU2YM6DOvEOt2CysKWpru+fc+M31JGj6gdq1c1wr4feSs1c/rmJ4jAfvYqejrJwyZK96XX1uRo+3RQ==
-  dependencies:
-    "@nx/webpack" "16.10.0"
-
 "@nrwl/webpack@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nrwl/webpack/-/webpack-16.8.0.tgz"
   integrity sha512-GHOJ6ADtHSmttc27jt3WYbCp7pRIzGdoXvFXsxM3nptOFLKV/cZAx1b+MQMZL13J3xxVVxCM+5hctxYLn95XcQ==
   dependencies:
     "@nx/webpack" "16.8.0"
-
-"@nrwl/workspace@*", "@nrwl/workspace@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nrwl/workspace/-/workspace-16.10.0.tgz"
-  integrity sha512-fZeNxhFs/2cm326NebfJIgSI3W4KZN94WGS46wlIBrUUGP5/vwHYsi09Kx6sG1kRkAuZVtgJ33uU2F6xcAWzUA==
-  dependencies:
-    "@nx/workspace" "16.10.0"
 
 "@nrwl/workspace@16.8.0":
   version "16.8.0"
@@ -2239,46 +2175,6 @@
     webpack "^5.80.0"
     webpack-merge "^5.8.0"
 
-"@nx/angular@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/angular/-/angular-16.9.0.tgz"
-  integrity sha512-meyCpVYGWcXCvZEfieNCzL/jy4gSCv2z0ECxod5fR0B0SwaHotZiI7fWmFgCMnhmYc1xzfZx65djjcNPZaxiug==
-  dependencies:
-    "@nrwl/angular" "*"
-    "@nx/cypress" "16.9.0"
-    "@nx/devkit" "16.9.0"
-    "@nx/jest" "16.9.0"
-    "@nx/js" "16.9.0"
-    "@nx/linter" "16.9.0"
-    "@nx/webpack" "16.9.0"
-    "@nx/workspace" "16.9.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    "@typescript-eslint/type-utils" "^5.36.1"
-    chalk "^4.1.0"
-    enquirer "^2.3.6"
-    find-cache-dir "^3.3.2"
-    ignore "^5.0.4"
-    magic-string "~0.30.2"
-    minimatch "3.0.5"
-    semver "7.5.3"
-    tslib "^2.3.0"
-    webpack "^5.80.0"
-    webpack-merge "^5.8.0"
-
-"@nx/cypress@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/cypress/-/cypress-16.10.0.tgz"
-  integrity sha512-suYc5jC6Os0D78Fn2pAIuGOkM6nhIWsSEb94PWwdZWE0XKQiWrgQJZBXDIu3x2zq6oZxYdx8OufUFli8vr4/Tw==
-  dependencies:
-    "@nrwl/cypress" "16.10.0"
-    "@nx/devkit" "16.10.0"
-    "@nx/js" "16.10.0"
-    "@nx/linter" "16.10.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    detect-port "^1.5.1"
-    semver "7.5.3"
-    tslib "^2.3.0"
-
 "@nx/cypress@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nx/cypress/-/cypress-16.8.0.tgz"
@@ -2293,52 +2189,12 @@
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/cypress@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/cypress/-/cypress-16.9.0.tgz"
-  integrity sha512-spYwho8Z39cLlNGV68/kcfHq+iOIQSjHaTOiLBoWy9qfzYFtQq8/2WEuGKHWK9zCCJX1/c5ckMuysVlk9dJUZQ==
-  dependencies:
-    "@nrwl/cypress" "*"
-    "@nx/devkit" "16.9.0"
-    "@nx/js" "16.9.0"
-    "@nx/linter" "16.9.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    detect-port "^1.5.1"
-    semver "7.5.3"
-    tslib "^2.3.0"
-
-"@nx/devkit@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/devkit/-/devkit-16.10.0.tgz"
-  integrity sha512-IvKQqRJFDDiaj33SPfGd3ckNHhHi6ceEoqCbAP4UuMXOPPVOX6H0KVk+9tknkPb48B7jWIw6/AgOeWkBxPRO5w==
-  dependencies:
-    "@nrwl/devkit" "16.10.0"
-    ejs "^3.1.7"
-    enquirer "~2.3.6"
-    ignore "^5.0.4"
-    semver "7.5.3"
-    tmp "~0.2.1"
-    tslib "^2.3.0"
-
 "@nx/devkit@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nx/devkit/-/devkit-16.8.0.tgz"
   integrity sha512-vFeWR6dQSmiVWOccIj9vpnB0nRzOY+VWucDDbQ4TKWQKzKfpnFDMsGxImff1AHFI0h4pvJOimDrY5+hktRrYew==
   dependencies:
     "@nrwl/devkit" "16.8.0"
-    ejs "^3.1.7"
-    enquirer "~2.3.6"
-    ignore "^5.0.4"
-    semver "7.5.3"
-    tmp "~0.2.1"
-    tslib "^2.3.0"
-
-"@nx/devkit@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/devkit/-/devkit-16.9.0.tgz"
-  integrity sha512-cqCLyiX9he+4XPalUysIfuDZ+b+JbnuFRwo0xIcrk86SwskVWBHGXgXthC7KoEK0ToCQXP+cEbXZqa5zZmuGbQ==
-  dependencies:
-    "@nrwl/devkit" "*"
     ejs "^3.1.7"
     enquirer "~2.3.6"
     ignore "^5.0.4"
@@ -2362,41 +2218,6 @@
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/eslint-plugin@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/eslint-plugin/-/eslint-plugin-16.9.0.tgz"
-  integrity sha512-fM9ZZuLOxlZQ+V6OvPgZ20kgXbfONiVtXeqxQMHfCVRLOQKkeGn79qJDhM99smXlv2DukQ2WPaihRjKN3ADMIw==
-  dependencies:
-    "@nrwl/eslint-plugin-nx" "*"
-    "@nx/devkit" "16.9.0"
-    "@nx/js" "16.9.0"
-    "@typescript-eslint/type-utils" "^5.60.1"
-    "@typescript-eslint/utils" "^5.60.1"
-    chalk "^4.1.0"
-    confusing-browser-globals "^1.0.9"
-    jsonc-eslint-parser "^2.1.0"
-    semver "7.5.3"
-    tslib "^2.3.0"
-
-"@nx/jest@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/jest/-/jest-16.10.0.tgz"
-  integrity sha512-QseeLjDrl4c9q9Dd/057SXYqd47JVLhD2VQlQDraYwjsHz3lWkzlGaaHy0ZrVu8LSzY7lUUhJMPyYO3qo8wT6A==
-  dependencies:
-    "@jest/reporters" "^29.4.1"
-    "@jest/test-result" "^29.4.1"
-    "@nrwl/jest" "16.10.0"
-    "@nx/devkit" "16.10.0"
-    "@nx/js" "16.10.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    chalk "^4.1.0"
-    identity-obj-proxy "3.0.0"
-    jest-config "^29.4.1"
-    jest-resolve "^29.4.1"
-    jest-util "^29.4.1"
-    resolve.exports "1.1.0"
-    tslib "^2.3.0"
-
 "@nx/jest@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nx/jest/-/jest-16.8.0.tgz"
@@ -2414,61 +2235,6 @@
     jest-resolve "^29.4.1"
     jest-util "^29.4.1"
     resolve.exports "1.1.0"
-    tslib "^2.3.0"
-
-"@nx/jest@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/jest/-/jest-16.9.0.tgz"
-  integrity sha512-+e5qfdGyoUBL+w1Fvwzm9Jzx1hsMbxGEWDhJyXS5unCDSGVmx/UXX7/5/GCNsicu8PImh43P7WNDjRrOWDYspw==
-  dependencies:
-    "@jest/reporters" "^29.4.1"
-    "@jest/test-result" "^29.4.1"
-    "@nrwl/jest" "*"
-    "@nx/devkit" "16.9.0"
-    "@nx/js" "16.9.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    chalk "^4.1.0"
-    identity-obj-proxy "3.0.0"
-    jest-config "^29.4.1"
-    jest-resolve "^29.4.1"
-    jest-util "^29.4.1"
-    resolve.exports "1.1.0"
-    tslib "^2.3.0"
-
-"@nx/js@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/js/-/js-16.10.0.tgz"
-  integrity sha512-27AH0/+XTMzOxVS6oV8Zl7/Rr1UDMYsnCVqoCU9CXp087uxcD4VnBOEjsEUlJKh1RdwGE3K0hBkk7NC1LP+vYQ==
-  dependencies:
-    "@babel/core" "^7.22.9"
-    "@babel/plugin-proposal-class-properties" "^7.18.6"
-    "@babel/plugin-proposal-decorators" "^7.22.7"
-    "@babel/plugin-transform-runtime" "^7.22.9"
-    "@babel/preset-env" "^7.22.9"
-    "@babel/preset-typescript" "^7.22.5"
-    "@babel/runtime" "^7.22.6"
-    "@nrwl/js" "16.10.0"
-    "@nx/devkit" "16.10.0"
-    "@nx/workspace" "16.10.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    babel-plugin-const-enum "^1.0.1"
-    babel-plugin-macros "^2.8.0"
-    babel-plugin-transform-typescript-metadata "^0.3.1"
-    chalk "^4.1.0"
-    columnify "^1.6.0"
-    detect-port "^1.5.1"
-    fast-glob "3.2.7"
-    fs-extra "^11.1.0"
-    ignore "^5.0.4"
-    js-tokens "^4.0.0"
-    minimatch "3.0.5"
-    npm-package-arg "11.0.1"
-    npm-run-path "^4.0.1"
-    ora "5.3.0"
-    semver "7.5.3"
-    source-map-support "0.5.19"
-    ts-node "10.9.1"
-    tsconfig-paths "^4.1.2"
     tslib "^2.3.0"
 
 "@nx/js@16.8.0":
@@ -2503,55 +2269,6 @@
     tsconfig-paths "^4.1.2"
     tslib "^2.3.0"
 
-"@nx/js@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/js/-/js-16.9.0.tgz"
-  integrity sha512-ZERgtxck6tcWXpcPYQp87eHBUcQur7z7qyvMiDwD8rnMfXRIID2g4m0LyTFiZHS84ZsuQegs0mmkqckXsmLsAQ==
-  dependencies:
-    "@babel/core" "^7.22.9"
-    "@babel/plugin-proposal-class-properties" "^7.18.6"
-    "@babel/plugin-proposal-decorators" "^7.22.7"
-    "@babel/plugin-transform-runtime" "^7.22.9"
-    "@babel/preset-env" "^7.22.9"
-    "@babel/preset-typescript" "^7.22.5"
-    "@babel/runtime" "^7.22.6"
-    "@nrwl/js" "*"
-    "@nx/devkit" "16.9.0"
-    "@nx/workspace" "16.9.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    babel-plugin-const-enum "^1.0.1"
-    babel-plugin-macros "^2.8.0"
-    babel-plugin-transform-typescript-metadata "^0.3.1"
-    chalk "^4.1.0"
-    columnify "^1.6.0"
-    detect-port "^1.5.1"
-    fast-glob "3.2.7"
-    fs-extra "^11.1.0"
-    ignore "^5.0.4"
-    js-tokens "^4.0.0"
-    minimatch "3.0.5"
-    npm-package-arg "11.0.1"
-    npm-run-path "^4.0.1"
-    ora "5.3.0"
-    semver "7.5.3"
-    source-map-support "0.5.19"
-    ts-node "10.9.1"
-    tsconfig-paths "^4.1.2"
-    tslib "^2.3.0"
-
-"@nx/linter@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/linter/-/linter-16.10.0.tgz"
-  integrity sha512-G6XBfuMHNHoJDc4n2Gip4fsa9KssT91V5PF2Rd4hILkg4YU8B8mlmHN71stpzwbEyUJtyhyJc5SGgVLrSpRQew==
-  dependencies:
-    "@nrwl/linter" "16.10.0"
-    "@nx/devkit" "16.10.0"
-    "@nx/js" "16.10.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    tmp "~0.2.1"
-    tslib "^2.3.0"
-    typescript "~5.1.3"
-
 "@nx/linter@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nx/linter/-/linter-16.8.0.tgz"
@@ -2565,48 +2282,15 @@
     tslib "^2.3.0"
     typescript "~5.1.3"
 
-"@nx/linter@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/linter/-/linter-16.9.0.tgz"
-  integrity sha512-v7G7Pcfn+//XuNRkXgMh1IMq/+Lc50JZhFYqTu6sgAbmywWAsA5xVkFqiKEVHd+gtRIqtufN4jCzTIdLl2pQ7g==
-  dependencies:
-    "@nrwl/linter" "*"
-    "@nx/devkit" "16.9.0"
-    "@nx/js" "16.9.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    tmp "~0.2.1"
-    tslib "^2.3.0"
-    typescript "~5.1.3"
-
-"@nx/nx-linux-x64-gnu@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/nx-linux-x64-gnu/-/nx-linux-x64-gnu-16.10.0.tgz"
-  integrity sha512-134PW/u/arNFAQKpqMJniC7irbChMPz+W+qtyKPAUXE0XFKPa7c1GtlI/wK2dvP9qJDZ6bKf0KtA0U/m2HMUOA==
-
 "@nx/nx-linux-x64-gnu@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nx/nx-linux-x64-gnu/-/nx-linux-x64-gnu-16.8.0.tgz"
   integrity sha512-WpZ90jcbbTO5g5FtNpZRgpem7HCE3iBKOx0lG2xt7ZWd5JoypzZg9tEjHaDvCm6uNloUqZZigKnVyxZ/ulaq/Q==
 
-"@nx/nx-linux-x64-gnu@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/nx-linux-x64-gnu/-/nx-linux-x64-gnu-16.9.0.tgz"
-  integrity sha512-xFaA3lOQn1hZ4mzXdCUe/CCioEjRJ0E18AekD2g0r9mMRVyrxEk0KH71jMQwbbVYzkvG9a2Vjiptp8hjmEejAw==
-
-"@nx/nx-linux-x64-musl@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/nx-linux-x64-musl/-/nx-linux-x64-musl-16.10.0.tgz"
-  integrity sha512-q8sINYLdIJxK/iUx9vRk5jWAWb/2O0PAbOJFwv4qkxBv4rLoN7y+otgCZ5v0xfx/zztFgk/oNY4lg5xYjIso2Q==
-
 "@nx/nx-linux-x64-musl@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nx/nx-linux-x64-musl/-/nx-linux-x64-musl-16.8.0.tgz"
   integrity sha512-iuOT42XEN/NPytNrZLB/V1WHbqletE4q2V3GxY08OFay6jyjA3CZWhUQ0IhiqXs2MXlbeKZM1Y9M8ogXr1bLHA==
-
-"@nx/nx-linux-x64-musl@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/nx-linux-x64-musl/-/nx-linux-x64-musl-16.9.0.tgz"
-  integrity sha512-8tfqvCajTOH5Tt/NFMNJRePwkoUbGYUK7qHJU2LDAazDUsjvpawdvEM8FkJWsNgIsQBej+zcSYA16+sffjsY2g==
 
 "@nx/react@16.8.0":
   version "16.8.0"
@@ -2625,36 +2309,6 @@
     minimatch "3.0.5"
     tslib "^2.3.0"
 
-"@nx/react@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/react/-/react-16.9.0.tgz"
-  integrity sha512-ScGdhUI/L7HnOSp3G3qB8qHSRkiYgFsxNlvQbH7ADxXB0IfEC90P8Mw2E/E8E78fZwpws7zJrv/y87dk7BZwrQ==
-  dependencies:
-    "@nrwl/react" "*"
-    "@nx/devkit" "16.9.0"
-    "@nx/js" "16.9.0"
-    "@nx/linter" "16.9.0"
-    "@nx/web" "16.9.0"
-    "@phenomnomnominal/tsquery" "~5.0.1"
-    "@svgr/webpack" "^8.0.1"
-    chalk "^4.1.0"
-    file-loader "^6.2.0"
-    minimatch "3.0.5"
-    tslib "^2.3.0"
-
-"@nx/web@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/web/-/web-16.10.0.tgz"
-  integrity sha512-UMGL7BOPyy6flJLePSG8JhEbfI9W4Y6oVqOziLbQODduU3HGr6woJCI38txnOX4nddbyEnL9tRuKkQ8u0YAYnw==
-  dependencies:
-    "@nrwl/web" "16.10.0"
-    "@nx/devkit" "16.10.0"
-    "@nx/js" "16.10.0"
-    chalk "^4.1.0"
-    detect-port "^1.5.1"
-    http-server "^14.1.0"
-    tslib "^2.3.0"
-
 "@nx/web@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nx/web/-/web-16.8.0.tgz"
@@ -2667,61 +2321,6 @@
     detect-port "^1.5.1"
     http-server "^14.1.0"
     tslib "^2.3.0"
-
-"@nx/web@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/web/-/web-16.9.0.tgz"
-  integrity sha512-Zh6rqrBLWKC+R2BJAEIjHOumy5CkFgG8lCdf7Vd69BHb8TMlq2bC3WBF/nprhqs4/SMfMIpTYxGX4fu22A6krQ==
-  dependencies:
-    "@nrwl/web" "*"
-    "@nx/devkit" "16.9.0"
-    "@nx/js" "16.9.0"
-    chalk "^4.1.0"
-    detect-port "^1.5.1"
-    http-server "^14.1.0"
-    tslib "^2.3.0"
-
-"@nx/webpack@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/webpack/-/webpack-16.10.0.tgz"
-  integrity sha512-rKftYWh4kW6A7svMx73Zg3fJFDS3618cKTZsCkuQWeSE+RMQXjcefeCxYhwvHXc/ehoakCIIBx7jDCR+6NIlzQ==
-  dependencies:
-    "@babel/core" "^7.22.9"
-    "@nrwl/webpack" "16.10.0"
-    "@nx/devkit" "16.10.0"
-    "@nx/js" "16.10.0"
-    autoprefixer "^10.4.9"
-    babel-loader "^9.1.2"
-    browserslist "^4.21.4"
-    chalk "^4.1.0"
-    copy-webpack-plugin "^10.2.4"
-    css-loader "^6.4.0"
-    css-minimizer-webpack-plugin "^5.0.0"
-    fork-ts-checker-webpack-plugin "7.2.13"
-    less "4.1.3"
-    less-loader "11.1.0"
-    license-webpack-plugin "^4.0.2"
-    loader-utils "^2.0.3"
-    mini-css-extract-plugin "~2.4.7"
-    parse5 "4.0.0"
-    postcss "^8.4.14"
-    postcss-import "~14.1.0"
-    postcss-loader "^6.1.1"
-    rxjs "^7.8.0"
-    sass "^1.42.1"
-    sass-loader "^12.2.0"
-    source-map-loader "^3.0.0"
-    style-loader "^3.3.0"
-    stylus "^0.59.0"
-    stylus-loader "^7.1.0"
-    terser-webpack-plugin "^5.3.3"
-    ts-loader "^9.3.1"
-    tsconfig-paths-webpack-plugin "4.0.0"
-    tslib "^2.3.0"
-    webpack "^5.80.0"
-    webpack-dev-server "^4.9.3"
-    webpack-node-externals "^3.0.0"
-    webpack-subresource-integrity "^5.1.0"
 
 "@nx/webpack@16.8.0":
   version "16.8.0"
@@ -2765,63 +2364,6 @@
     webpack-node-externals "^3.0.0"
     webpack-subresource-integrity "^5.1.0"
 
-"@nx/webpack@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/webpack/-/webpack-16.9.0.tgz"
-  integrity sha512-uwoz89EguPW++f/hGBrzxcIppK2QsBBxnMPlP7axHE/CWt5zjRZjDzSV6Cyb7HZZllMNQlVTdcJyelFZNFdO9A==
-  dependencies:
-    "@babel/core" "^7.22.9"
-    "@nrwl/webpack" "*"
-    "@nx/devkit" "16.9.0"
-    "@nx/js" "16.9.0"
-    autoprefixer "^10.4.9"
-    babel-loader "^9.1.2"
-    browserslist "^4.21.4"
-    chalk "^4.1.0"
-    copy-webpack-plugin "^10.2.4"
-    css-loader "^6.4.0"
-    css-minimizer-webpack-plugin "^5.0.0"
-    fork-ts-checker-webpack-plugin "7.2.13"
-    less "4.1.3"
-    less-loader "11.1.0"
-    license-webpack-plugin "^4.0.2"
-    loader-utils "^2.0.3"
-    mini-css-extract-plugin "~2.4.7"
-    parse5 "4.0.0"
-    postcss "^8.4.14"
-    postcss-import "~14.1.0"
-    postcss-loader "^6.1.1"
-    rxjs "^7.8.0"
-    sass "^1.42.1"
-    sass-loader "^12.2.0"
-    source-map-loader "^3.0.0"
-    style-loader "^3.3.0"
-    stylus "^0.59.0"
-    stylus-loader "^7.1.0"
-    terser-webpack-plugin "^5.3.3"
-    ts-loader "^9.3.1"
-    tsconfig-paths-webpack-plugin "4.0.0"
-    tslib "^2.3.0"
-    webpack "^5.80.0"
-    webpack-dev-server "^4.9.3"
-    webpack-node-externals "^3.0.0"
-    webpack-subresource-integrity "^5.1.0"
-
-"@nx/workspace@16.10.0":
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/@nx/workspace/-/workspace-16.10.0.tgz"
-  integrity sha512-95Eq36bzq2hb095Zvg+Ru8o9oIeOE62tNGGpohBkZPKoK2CUTYEq0AZtdj1suXS82ukCFCyyZ/c/fwxL62HRZA==
-  dependencies:
-    "@nrwl/workspace" "16.10.0"
-    "@nx/devkit" "16.10.0"
-    chalk "^4.1.0"
-    enquirer "~2.3.6"
-    ignore "^5.0.4"
-    nx "16.10.0"
-    rxjs "^7.8.0"
-    tslib "^2.3.0"
-    yargs-parser "21.1.1"
-
 "@nx/workspace@16.8.0":
   version "16.8.0"
   resolved "https://registry.npmjs.org/@nx/workspace/-/workspace-16.8.0.tgz"
@@ -2833,21 +2375,6 @@
     enquirer "~2.3.6"
     ignore "^5.0.4"
     nx "16.8.0"
-    rxjs "^7.8.0"
-    tslib "^2.3.0"
-    yargs-parser "21.1.1"
-
-"@nx/workspace@16.9.0":
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/@nx/workspace/-/workspace-16.9.0.tgz"
-  integrity sha512-uLiMfHGEtlx3v5WjEKXIMn32Xa6/zr2DyvWmM77QEmpbwvgktNahBMO8pT8Ea6G5DpTu3yMfxV1m++tbTDAuHg==
-  dependencies:
-    "@nrwl/workspace" "*"
-    "@nx/devkit" "16.9.0"
-    chalk "^4.1.0"
-    enquirer "~2.3.6"
-    ignore "^5.0.4"
-    nx "16.9.0"
     rxjs "^7.8.0"
     tslib "^2.3.0"
     yargs-parser "21.1.1"
@@ -2980,11 +2507,6 @@
   resolved "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-8.0.0.tgz"
   integrity sha512-UKrY3860AQICgH7g+6h2zkoxeVEPLYwX/uAjmqo4PIq2FIHppwhIqZstIyTz0ZtlwreKR41O3W3BzsBBiJV2Aw==
 
-"@svgr/babel-plugin-transform-react-native-svg@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.npmjs.org/@svgr/babel-plugin-transform-react-native-svg/-/babel-plugin-transform-react-native-svg-8.1.0.tgz"
-  integrity sha512-Tx8T58CHo+7nwJ+EhUwx3LfdNSG9R2OKfaIXXs5soiy5HtgoAEkDay9LIimLOcG8dJQH1wPZp/cnAv6S9CrR1Q==
-
 "@svgr/babel-plugin-transform-svg-component@^6.5.1":
   version "6.5.1"
   resolved "https://registry.npmjs.org/@svgr/babel-plugin-transform-svg-component/-/babel-plugin-transform-svg-component-6.5.1.tgz"
@@ -3023,20 +2545,6 @@
     "@svgr/babel-plugin-transform-react-native-svg" "8.0.0"
     "@svgr/babel-plugin-transform-svg-component" "8.0.0"
 
-"@svgr/babel-preset@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.npmjs.org/@svgr/babel-preset/-/babel-preset-8.1.0.tgz"
-  integrity sha512-7EYDbHE7MxHpv4sxvnVPngw5fuR6pw79SkcrILHJ/iMpuKySNCl5W1qcwPEpU+LgyRXOaAFgH0KhwD18wwg6ug==
-  dependencies:
-    "@svgr/babel-plugin-add-jsx-attribute" "8.0.0"
-    "@svgr/babel-plugin-remove-jsx-attribute" "8.0.0"
-    "@svgr/babel-plugin-remove-jsx-empty-expression" "8.0.0"
-    "@svgr/babel-plugin-replace-jsx-attribute-value" "8.0.0"
-    "@svgr/babel-plugin-svg-dynamic-title" "8.0.0"
-    "@svgr/babel-plugin-svg-em-dimensions" "8.0.0"
-    "@svgr/babel-plugin-transform-react-native-svg" "8.1.0"
-    "@svgr/babel-plugin-transform-svg-component" "8.0.0"
-
 "@svgr/core@^6.5.1":
   version "6.5.1"
   resolved "https://registry.npmjs.org/@svgr/core/-/core-6.5.1.tgz"
@@ -3055,17 +2563,6 @@
   dependencies:
     "@babel/core" "^7.21.3"
     "@svgr/babel-preset" "8.0.0"
-    camelcase "^6.2.0"
-    cosmiconfig "^8.1.3"
-    snake-case "^3.0.4"
-
-"@svgr/core@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.npmjs.org/@svgr/core/-/core-8.1.0.tgz"
-  integrity sha512-8QqtOQT5ACVlmsvKOJNEaWmRPmcojMOzCz4Hs2BGG/toAp/K38LcsMRyLp349glq5AzJbCEeimEoxaX6v/fLrA==
-  dependencies:
-    "@babel/core" "^7.21.3"
-    "@svgr/babel-preset" "8.1.0"
     camelcase "^6.2.0"
     cosmiconfig "^8.1.3"
     snake-case "^3.0.4"
@@ -3106,16 +2603,6 @@
     "@svgr/hast-util-to-babel-ast" "8.0.0"
     svg-parser "^2.0.4"
 
-"@svgr/plugin-jsx@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.npmjs.org/@svgr/plugin-jsx/-/plugin-jsx-8.1.0.tgz"
-  integrity sha512-0xiIyBsLlr8quN+WyuxooNW9RJ0Dpr8uOnH/xrCVO8GLUcwHISwj1AG0k+LFzteTkAA0GbX0kj9q6Dk70PTiPA==
-  dependencies:
-    "@babel/core" "^7.21.3"
-    "@svgr/babel-preset" "8.1.0"
-    "@svgr/hast-util-to-babel-ast" "8.0.0"
-    svg-parser "^2.0.4"
-
 "@svgr/plugin-svgo@^6.5.1":
   version "6.5.1"
   resolved "https://registry.npmjs.org/@svgr/plugin-svgo/-/plugin-svgo-6.5.1.tgz"
@@ -3129,15 +2616,6 @@
   version "8.0.1"
   resolved "https://registry.npmjs.org/@svgr/plugin-svgo/-/plugin-svgo-8.0.1.tgz"
   integrity sha512-29OJ1QmJgnohQHDAgAuY2h21xWD6TZiXji+hnx+W635RiXTAlHTbjrZDktfqzkN0bOeQEtNe+xgq73/XeWFfSg==
-  dependencies:
-    cosmiconfig "^8.1.3"
-    deepmerge "^4.3.1"
-    svgo "^3.0.2"
-
-"@svgr/plugin-svgo@8.1.0":
-  version "8.1.0"
-  resolved "https://registry.npmjs.org/@svgr/plugin-svgo/-/plugin-svgo-8.1.0.tgz"
-  integrity sha512-Ywtl837OGO9pTLIN/onoWLmDQ4zFUycI1g76vuKGEz6evR/ZTJlJuz3G/fIkb6OVBJ2g0o6CGJzaEjfmEo3AHA==
   dependencies:
     cosmiconfig "^8.1.3"
     deepmerge "^4.3.1"
@@ -3158,18 +2636,18 @@
     "@svgr/plugin-svgo" "^6.5.1"
 
 "@svgr/webpack@^8.0.1":
-  version "8.1.0"
-  resolved "https://registry.npmjs.org/@svgr/webpack/-/webpack-8.1.0.tgz"
-  integrity sha512-LnhVjMWyMQV9ZmeEy26maJk+8HTIbd59cH4F2MJ439k9DqejRisfFNGAPvRYlKETuh9LrImlS8aKsBgKjMA8WA==
+  version "8.0.1"
+  resolved "https://registry.npmjs.org/@svgr/webpack/-/webpack-8.0.1.tgz"
+  integrity sha512-zSoeKcbCmfMXjA11uDuCJb+1LWNb3vy6Qw/VHj0Nfcl3UuqwuoZWknHsBIhCWvi4wU9vPui3aq054qjVyZqY4A==
   dependencies:
     "@babel/core" "^7.21.3"
     "@babel/plugin-transform-react-constant-elements" "^7.21.3"
     "@babel/preset-env" "^7.20.2"
     "@babel/preset-react" "^7.18.6"
     "@babel/preset-typescript" "^7.21.0"
-    "@svgr/core" "8.1.0"
-    "@svgr/plugin-jsx" "8.1.0"
-    "@svgr/plugin-svgo" "8.1.0"
+    "@svgr/core" "8.0.0"
+    "@svgr/plugin-jsx" "8.0.1"
+    "@svgr/plugin-svgo" "8.0.1"
 
 "@testing-library/dom@^8.5.0":
   version "8.19.0"
@@ -5070,14 +4548,6 @@ colorette@^2.0.10, colorette@^2.0.16:
   resolved "https://registry.npmjs.org/colorette/-/colorette-2.0.19.tgz"
   integrity sha512-3tlv/dIP7FWvj3BsbHrGLJ6l/oKh1O3TcgBqMn+yyCagOxc23fyzDS6HypQbgxWbkpDnf52p1LuR4eWDQ/K9WQ==
 
-columnify@^1.6.0:
-  version "1.6.0"
-  resolved "https://registry.npmjs.org/columnify/-/columnify-1.6.0.tgz"
-  integrity sha512-lomjuFZKfM6MSAnV9aCZC9sc0qGbmZdfygNv+nCpqVkSKdCxCklLtd16O0EILGkImHw9ZpHkAnHaB+8Zxq5W6Q==
-  dependencies:
-    strip-ansi "^6.0.1"
-    wcwidth "^1.0.0"
-
 combined-stream@^1.0.6, combined-stream@^1.0.8, combined-stream@~1.0.6:
   version "1.0.8"
   resolved "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.8.tgz"
@@ -5278,13 +4748,13 @@ cosmiconfig@^7.0.0, cosmiconfig@^7.0.1:
     yaml "^1.10.0"
 
 cosmiconfig@^8.1.3:
-  version "8.3.6"
-  resolved "https://registry.npmjs.org/cosmiconfig/-/cosmiconfig-8.3.6.tgz"
-  integrity sha512-kcZ6+W5QzcJ3P1Mt+83OUv/oHFqZHIx8DuxG6eZ5RGMERoLqp4BuGjhHLYGK+Kf5XVkQvqBSmAy/nGWN3qDgEA==
+  version "8.1.3"
+  resolved "https://registry.npmjs.org/cosmiconfig/-/cosmiconfig-8.1.3.tgz"
+  integrity sha512-/UkO2JKI18b5jVMJUp0lvKFMpa/Gye+ZgZjKD+DGEN9y7NRcf/nK1A0sp67ONmKtnDCNMS44E6jrk0Yc3bDuUw==
   dependencies:
-    import-fresh "^3.3.0"
+    import-fresh "^3.2.1"
     js-yaml "^4.1.0"
-    parse-json "^5.2.0"
+    parse-json "^5.0.0"
     path-type "^4.0.0"
 
 cosmiconfig@^8.2.0:
@@ -7353,13 +6823,6 @@ hosted-git-info@^6.0.0:
   dependencies:
     lru-cache "^7.5.1"
 
-hosted-git-info@^7.0.0:
-  version "7.0.1"
-  resolved "https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-7.0.1.tgz"
-  integrity sha512-+K84LB1DYwMHoHSgaOY/Jfhw3ucPmSET5v98Ke/HdNSw4a0UktWzyW1mjhjpuxxTqOOsfWT/7iVshHmVZ4IpOA==
-  dependencies:
-    lru-cache "^10.0.1"
-
 hpack.js@^2.1.6:
   version "2.1.6"
   resolved "https://registry.npmjs.org/hpack.js/-/hpack.js-2.1.6.tgz"
@@ -7605,7 +7068,7 @@ immutable@^4.0.0:
   resolved "https://registry.npmjs.org/immutable/-/immutable-4.1.0.tgz"
   integrity sha512-oNkuqVTA8jqG1Q6c+UglTOD1xhC1BtjKI7XkCXRkZHrN5m18/XsnUp8Q89GkQO/z+0WjonSvl0FLhDYftp46nQ==
 
-import-fresh@^3.1.0, import-fresh@^3.2.1, import-fresh@^3.3.0:
+import-fresh@^3.1.0, import-fresh@^3.2.1:
   version "3.3.0"
   resolved "https://registry.npmjs.org/import-fresh/-/import-fresh-3.3.0.tgz"
   integrity sha512-veYYhQa+D1QBKznvhUHxb8faxlrwUnxseDAbAp457E0wLNio2bOSKnjYDhMj+YiAq61xrMGhQk9iXVk5FzgQMw==
@@ -8163,7 +7626,7 @@ jest-config@^29.4.1, jest-config@^29.4.3:
     slash "^3.0.0"
     strip-json-comments "^3.1.1"
 
-jest-diff@^29.4.1, jest-diff@^29.5.0:
+jest-diff@^29.5.0:
   version "29.5.0"
   resolved "https://registry.npmjs.org/jest-diff/-/jest-diff-29.5.0.tgz"
   integrity sha512-LtxijLLZBduXnHSniy0WMdaHjmQnt3g5sa16W4p0HqukYTTsyTW3GD1q41TyGl5YFXj/5B2U6dlh5FM1LIMgxw==
@@ -8499,7 +7962,14 @@ js-yaml@^3.10.0, js-yaml@^3.13.1:
     argparse "^1.0.7"
     esprima "^4.0.0"
 
-js-yaml@^4.1.0, js-yaml@4.1.0:
+js-yaml@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz"
+  integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
+  dependencies:
+    argparse "^2.0.1"
+
+js-yaml@4.1.0:
   version "4.1.0"
   resolved "https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz"
   integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
@@ -9013,11 +8483,6 @@ lower-case@^2.0.2:
   dependencies:
     tslib "^2.0.3"
 
-lru-cache@^10.0.1:
-  version "10.0.1"
-  resolved "https://registry.npmjs.org/lru-cache/-/lru-cache-10.0.1.tgz"
-  integrity sha512-IJ4uwUTi2qCccrioU6g9g/5rvvVl13bsdczUUcqbciD9iLr095yj8DQKdObriEvuNSx325N1rV1O0sJFszx75g==
-
 lru-cache@^5.1.1:
   version "5.1.1"
   resolved "https://registry.npmjs.org/lru-cache/-/lru-cache-5.1.1.tgz"
@@ -9053,9 +8518,9 @@ lz-string@^1.4.4:
   integrity sha512-0ckx7ZHRPqb0oUm8zNr+90mtf9DQB60H1wMCjBtfi62Kl3a7JbHob6gA2bC+xRvZoOL+1hzUK8jeuEIQE8svEQ==
 
 magic-string@~0.30.2:
-  version "0.30.4"
-  resolved "https://registry.npmjs.org/magic-string/-/magic-string-0.30.4.tgz"
-  integrity sha512-Q/TKtsC5BPm0kGqgBIF9oXAs/xEf2vRKiIB4wCRQTJOQIByZ1d+NnUOotvJOvNpi5RNIgVOMC3pOuaP1ZTDlVg==
+  version "0.30.2"
+  resolved "https://registry.npmjs.org/magic-string/-/magic-string-0.30.2.tgz"
+  integrity sha512-lNZdu7pewtq/ZvWUp9Wpf/x7WzMTsR26TWV03BRZrXFsv+BI6dy8RAiKgm1uM/kyR0rCfUcqvOlXKG66KhIGug==
   dependencies:
     "@jridgewell/sourcemap-codec" "^1.4.15"
 
@@ -9705,16 +9170,6 @@ npm-package-arg@^10.0.0, npm-package-arg@10.1.0:
     semver "^7.3.5"
     validate-npm-package-name "^5.0.0"
 
-npm-package-arg@11.0.1:
-  version "11.0.1"
-  resolved "https://registry.npmjs.org/npm-package-arg/-/npm-package-arg-11.0.1.tgz"
-  integrity sha512-M7s1BD4NxdAvBKUPqqRW957Xwcl/4Zvo8Aj+ANrzvIPzGJZElrH7Z//rSaec2ORcND6FHHLnZeY8qgTpXDMFQQ==
-  dependencies:
-    hosted-git-info "^7.0.0"
-    proc-log "^3.0.0"
-    semver "^7.3.5"
-    validate-npm-package-name "^5.0.0"
-
 npm-packlist@^1.1.12:
   version "1.4.8"
   resolved "https://registry.npmjs.org/npm-packlist/-/npm-packlist-1.4.8.tgz"
@@ -9799,59 +9254,6 @@ nx-cloud@16.4.0:
     tar "6.1.11"
     yargs-parser ">=21.1.1"
 
-nx@16.10.0:
-  version "16.10.0"
-  resolved "https://registry.npmjs.org/nx/-/nx-16.10.0.tgz"
-  integrity sha512-gZl4iCC0Hx0Qe1VWmO4Bkeul2nttuXdPpfnlcDKSACGu3ZIo+uySqwOF8yBAxSTIf8xe2JRhgzJN1aFkuezEBg==
-  dependencies:
-    "@nrwl/tao" "16.10.0"
-    "@parcel/watcher" "2.0.4"
-    "@yarnpkg/lockfile" "^1.1.0"
-    "@yarnpkg/parsers" "3.0.0-rc.46"
-    "@zkochan/js-yaml" "0.0.6"
-    axios "^1.0.0"
-    chalk "^4.1.0"
-    cli-cursor "3.1.0"
-    cli-spinners "2.6.1"
-    cliui "^8.0.1"
-    dotenv "~16.3.1"
-    dotenv-expand "~10.0.0"
-    enquirer "~2.3.6"
-    figures "3.2.0"
-    flat "^5.0.2"
-    fs-extra "^11.1.0"
-    glob "7.1.4"
-    ignore "^5.0.4"
-    jest-diff "^29.4.1"
-    js-yaml "4.1.0"
-    jsonc-parser "3.2.0"
-    lines-and-columns "~2.0.3"
-    minimatch "3.0.5"
-    node-machine-id "1.1.12"
-    npm-run-path "^4.0.1"
-    open "^8.4.0"
-    semver "7.5.3"
-    string-width "^4.2.3"
-    strong-log-transformer "^2.1.0"
-    tar-stream "~2.2.0"
-    tmp "~0.2.1"
-    tsconfig-paths "^4.1.2"
-    tslib "^2.3.0"
-    v8-compile-cache "2.3.0"
-    yargs "^17.6.2"
-    yargs-parser "21.1.1"
-  optionalDependencies:
-    "@nx/nx-darwin-arm64" "16.10.0"
-    "@nx/nx-darwin-x64" "16.10.0"
-    "@nx/nx-freebsd-x64" "16.10.0"
-    "@nx/nx-linux-arm-gnueabihf" "16.10.0"
-    "@nx/nx-linux-arm64-gnu" "16.10.0"
-    "@nx/nx-linux-arm64-musl" "16.10.0"
-    "@nx/nx-linux-x64-gnu" "16.10.0"
-    "@nx/nx-linux-x64-musl" "16.10.0"
-    "@nx/nx-win32-arm64-msvc" "16.10.0"
-    "@nx/nx-win32-x64-msvc" "16.10.0"
-
 nx@16.8.0:
   version "16.8.0"
   resolved "https://registry.npmjs.org/nx/-/nx-16.8.0.tgz"
@@ -9904,59 +9306,6 @@ nx@16.8.0:
     "@nx/nx-linux-x64-musl" "16.8.0"
     "@nx/nx-win32-arm64-msvc" "16.8.0"
     "@nx/nx-win32-x64-msvc" "16.8.0"
-
-nx@16.9.0:
-  version "16.9.0"
-  resolved "https://registry.npmjs.org/nx/-/nx-16.9.0.tgz"
-  integrity sha512-5/AjO4XJkiTcyIiw+zPyeOBdoy2njS/9fYBFroB4402mFtbqKiWkfjt+9Tng1AWSQzxyuKQb0hopdUQTEPhdcw==
-  dependencies:
-    "@nrwl/tao" "*"
-    "@parcel/watcher" "2.0.4"
-    "@yarnpkg/lockfile" "^1.1.0"
-    "@yarnpkg/parsers" "3.0.0-rc.46"
-    "@zkochan/js-yaml" "0.0.6"
-    axios "^1.0.0"
-    chalk "^4.1.0"
-    cli-cursor "3.1.0"
-    cli-spinners "2.6.1"
-    cliui "^7.0.2"
-    dotenv "~16.3.1"
-    dotenv-expand "~10.0.0"
-    enquirer "~2.3.6"
-    figures "3.2.0"
-    flat "^5.0.2"
-    fs-extra "^11.1.0"
-    glob "7.1.4"
-    ignore "^5.0.4"
-    jest-diff "^29.4.1"
-    js-yaml "4.1.0"
-    jsonc-parser "3.2.0"
-    lines-and-columns "~2.0.3"
-    minimatch "3.0.5"
-    node-machine-id "1.1.12"
-    npm-run-path "^4.0.1"
-    open "^8.4.0"
-    semver "7.5.3"
-    string-width "^4.2.3"
-    strong-log-transformer "^2.1.0"
-    tar-stream "~2.2.0"
-    tmp "~0.2.1"
-    tsconfig-paths "^4.1.2"
-    tslib "^2.3.0"
-    v8-compile-cache "2.3.0"
-    yargs "^17.6.2"
-    yargs-parser "21.1.1"
-  optionalDependencies:
-    "@nx/nx-darwin-arm64" "16.9.0"
-    "@nx/nx-darwin-x64" "16.9.0"
-    "@nx/nx-freebsd-x64" "16.9.0"
-    "@nx/nx-linux-arm-gnueabihf" "16.9.0"
-    "@nx/nx-linux-arm64-gnu" "16.9.0"
-    "@nx/nx-linux-arm64-musl" "16.9.0"
-    "@nx/nx-linux-x64-gnu" "16.9.0"
-    "@nx/nx-linux-x64-musl" "16.9.0"
-    "@nx/nx-win32-arm64-msvc" "16.9.0"
-    "@nx/nx-win32-x64-msvc" "16.9.0"
 
 object-assign@^4.1.1:
   version "4.1.1"
@@ -10129,20 +9478,6 @@ ora@^5.4.1, ora@5.4.1:
     is-interactive "^1.0.0"
     is-unicode-supported "^0.1.0"
     log-symbols "^4.1.0"
-    strip-ansi "^6.0.0"
-    wcwidth "^1.0.1"
-
-ora@5.3.0:
-  version "5.3.0"
-  resolved "https://registry.npmjs.org/ora/-/ora-5.3.0.tgz"
-  integrity sha512-zAKMgGXUim0Jyd6CXK9lraBnD3H5yPGBPPOkC23a2BG6hsm4Zu6OQSjQuEtV0BHDf4aKHcUFvJiGRrFuW3MG8g==
-  dependencies:
-    bl "^4.0.3"
-    chalk "^4.1.0"
-    cli-cursor "^3.1.0"
-    cli-spinners "^2.5.0"
-    is-interactive "^1.0.0"
-    log-symbols "^4.0.0"
     strip-ansi "^6.0.0"
     wcwidth "^1.0.1"
 
@@ -12860,7 +12195,7 @@ wbuf@^1.1.0, wbuf@^1.7.3:
   dependencies:
     minimalistic-assert "^1.0.0"
 
-wcwidth@^1.0.0, wcwidth@^1.0.1:
+wcwidth@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/wcwidth/-/wcwidth-1.0.1.tgz"
   integrity sha512-XHPEwS0q6TaxcvG85+8EYkbiCux2XtWG2mkc47Ng2A77BQu9+DqIOJldST4HgPkuea7dvKSj5VgX3P1d4rW8Tg==
